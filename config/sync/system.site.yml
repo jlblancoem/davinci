@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+langcode: en
+uuid: f89e9e01-e783-4bb1-b494-b5aab22565f5
+name: Dru4pal
+mail: info@dru4pal.com
+slogan: 'drupal for you my pal'
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en
